@@ -13,4 +13,4 @@
 # git clone https://github.com/Aryanjan002/ARYAN_all_fbhack
 # cd ARYAN_all_fbhack
 
-# python Aryan_Hacker
+# python Aryan_Hacker.py
